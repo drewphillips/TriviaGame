@@ -1,0 +1,46 @@
+.container {
+    background: black;
+    color: whitesmoke;
+    padding: 10px 0 48px 0;
+  }
+  h1 {
+    text-align: center;
+    background: purple;
+    color: white;
+    margin: 0;
+    
+  }
+  h2 {
+    color: white;
+  }
+  hr {
+    border-color: white;
+  }
+  h3:hover,
+  h2:hover {
+    background: grey;
+    color: blue;
+  }
+  .game-panel {
+    background: gray;
+    height: 530px; width: 800px;
+    margin: auto;
+    margin-top: 80px;
+    padding-top: 30px;
+  
+  }
+  #start-button,
+  #choices,
+  #timer {
+    width: 450px;
+    margin: auto;
+    text-align: center;
+    background: whitesmoke;
+    color: blue;
+    padding: 20px 0 20px 0;
+  }
+  .title {
+    font-size: 24px;
+    margin: 0;
+  }
+  

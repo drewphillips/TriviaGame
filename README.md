@@ -22,7 +22,7 @@ Wesley Crusher, Hoban Washburne, Chewbacca, Henry Tingle Wilde
 3) Who was in charge of security on the Serenity.
 Lieutenant Warf, Zoe Washburne, Darth Vader, William McMaster Murdoch
 
-4) Who was the Hired Gun on the ship and also the best male character.
+4) Who was the Hired Gun on the ship.
 Data, Jayne Cobb, Boba Fett, Herbert Pitman
 
 5) Who was in charge of religious understandings.
@@ -34,5 +34,5 @@ Q, River Tam, Anakin Skywalker, Harold Lowe,
 7) Older brother who loved said failed government experiment.
 William T. Riker, Simon Tam, C3PO, Herbert Pitman
 
-8) hips mechanic.
+8) Ships mechanic.
 Geordi La Forge, Kaylee Frye, RJD2, Charles Lightoller,
