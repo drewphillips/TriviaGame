@@ -1,5 +1,13 @@
 # TriviaGame
 
+Pseudo Code,
+
+With a timer of 120 seconeds the player must choose one of 4 options from 8 qestions, each question must show one question at a time. Once the timer runns out the screen must show the final score, Corect answers, wrong answers, and un answerd quesstions.
+
+No answer can be answered with 2 answers and only one button can be pressed.
+
+I really dont have any idea where to start, its like I cant keep all the part we have learned togehter and while I know I should make the code work before I work on the html/CSS I just dont know how to even start...
+
 8 questions
 
 Fire Fly theme. What are the names of the ships crew.
@@ -26,5 +34,5 @@ Q, River Tam, Anakin Skywalker, Harold Lowe,
 7) Older brother who loved said failed government experiment.
 William T. Riker, Simon Tam, C3PO, Herbert Pitman
 
-8, Ships mechanic.
+8) hips mechanic.
 Geordi La Forge, Kaylee Frye, RJD2, Charles Lightoller,
