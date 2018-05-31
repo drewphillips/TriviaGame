@@ -8,6 +8,9 @@ No answer can be answered with 2 answers and only one button can be pressed.
 
 I really dont have any idea where to start, its like I cant keep all the part we have learned togehter and while I know I should make the code work before I work on the html/CSS I just dont know how to even start...
 
+SO I stole someones code, and it kinda worked. still messing with it, its funny, I can read the code and uns=derstand it, but creating this from scratch is just not how my brain is set to work...
+
+
 8 questions
 
 Fire Fly theme. What are the names of the ships crew.

@@ -17,14 +17,14 @@ $(document).ready(function () {
           "7) Older brother who loved said failed government experiment.",
           "8) Ships mechanic.",],
         answers: [
-          ["Malcolm Reynolds", "Jean-Luc Picard", "Han Solo", "Edward Smith"],
-          ["Hoban Washburne", "Wesley Crusher", "Chewbacca", "Henry Tingle Wilde"],
-          ["Zoe Washburne", "Lieutenant Warf", "Darth Vader", "William McMaster Murdoch"],
-          ["Jayne Cobb", "Data", "Boba Fett", "Herbert Pitman"],
-          ["Derrial Book", "Guinan", "Yoda", "James Paul Moody"],
-          ["River Tam", "Q", "Anakin Skywalker", "Harold Lowe"],
-          ["Simon Tam", "William T. Riker", "C3PO", "Herbert Pitman"],
-          ["Kaylee Frye", "Geordi La Forge", "RJD2", "Charles Lightoller"],
+          ["Malcolm Reynolds ", "Jean-Luc Picard ", "Han Solo ", "Edward Smith "],
+          ["Hoban Washburne ", "Wesley Crusher ", "Chewbacca ", "Henry Tingle Wilde "],
+          ["Zoe Washburne", "Lieutenant Warf", "Darth Vader", "William McMaster Murdoch "],
+          ["Jayne Cobb ", "Data ", "Boba Fett ", "Herbert Pitman "],
+          ["Derrial Book ", "Guinan ", "Yoda ", "James Paul Moody "],
+          ["River Tam ", "Q ", "Anakin Skywalker ", "Harold Lowe "],
+          ["Simon Tam ", "William T. Riker ", "C3PO ", "Herbert Pitman "],
+          ["Kaylee Frye ", "Geordi La Forge ", "RJD2 ", "Charles Lightoller "],
         ]
       }
     }
@@ -44,7 +44,7 @@ $(document).ready(function () {
     }
     function checker(guessed) {
   
-      if (guessed === game.trivia.answers[nextQuestion][0]) {
+      if (guessed === game.trivia.answers[0]) {
         alert("correct!");
       } else if (guessed !== game.trivia.answers[nextQuestion[0]]) {
         alert("incorrect");
@@ -71,7 +71,6 @@ $(document).ready(function () {
   
     $("#choices").on("click", function () {
       guess = $(".answer").text();
-      alert(guess);
       checker(guess);
     })
   
